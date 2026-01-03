@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "88c5a3951b4e5b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "940c3e7fe3602f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4e1a5e775b8e5b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd495afddfee1e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd4cdd1bc52cc5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76bb203a49fc64e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c179a16c40d9560",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59852e3c5ece6849",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d3c2bdae992e22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a549e143450820a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a1397bf9819dd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "61ebf926aeb1bde2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3a7a2783fed182a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4710b2d2d69fa8a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b4e1a5e775b8e5b0",
+  "lastOpenFiles": [
+    "node/Internship program.md",
+    "node/hiring/Strategy and Research Intern Hiring Process.md",
+    "node/hiring/Internship program.md",
+    "node/hiring/Internship Job description.md",
+    "node/hiring/Axocom onsite round mail For Strategy and Research Analyst Intern.md",
+    "node/hiring",
+    "node/hirign",
+    "node/Axocom onsite round mail For Strategy and Research Analyst Intern.md",
+    "node/Axocom Company structure.md",
+    "node/Strategy and Research Intern Hiring Process.md",
+    "node/Internship Job description.md",
+    "README.md.md",
+    "references/Strategy and Research Analyst Internship Sheet.md",
+    "node/AxoCom.md",
+    "references/Obsidian.md",
+    "node/Knowledge Graph.md",
+    "rough",
+    "Data visulization.md",
+    "references",
+    "node",
+    "Human intelligence (HUMINT).md",
+    "Welcome.md"
+  ]
+}
