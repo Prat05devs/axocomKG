@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "940c3e7fe3602f32",
+        "id": "d0649cd018c9ff74",
         "type": "tabs",
         "children": [
           {
-            "id": "b4e1a5e775b8e5b0",
+            "id": "b7eae61bf1abec5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "node/Knowledge Graph.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Knowledge Graph"
             }
           }
         ]
@@ -162,13 +166,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4e1a5e775b8e5b0",
+  "active": "e76bb203a49fc64e",
   "lastOpenFiles": [
-    "node/Internship program.md",
+    "references/Creative & Generative Production Internship Sheet.md",
+    "rough/Untitled.md",
+    "node/hiring/Axocom onsite round mail For Creative & Generative Production Intern.md",
+    "node/hiring/Creative & Generative Production Intern Hiring Process.md",
+    "node/hiring/Axocom onsite round mail For Strategy and Research Analyst Intern.md",
+    "rough/Axocom onsite round mail For Creative & Generative Production Intern.md",
     "node/hiring/Strategy and Research Intern Hiring Process.md",
+    "node/hiring/Untitled",
+    "templates/New Note.md",
+    "templates",
+    "rough/How to contribute to knowledge graph.md",
+    "node/Internship program.md",
     "node/hiring/Internship program.md",
     "node/hiring/Internship Job description.md",
-    "node/hiring/Axocom onsite round mail For Strategy and Research Analyst Intern.md",
     "node/hiring",
     "node/hirign",
     "node/Axocom onsite round mail For Strategy and Research Analyst Intern.md",
