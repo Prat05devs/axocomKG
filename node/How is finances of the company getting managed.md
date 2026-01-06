@@ -9,6 +9,8 @@
 
 # Content
 
-It will be managed via the Axolotl emprise management LLP. the company account will be created and all expenses will be done through it
+It will be managed via the Axolotl emprise management LLP. the company account will be created and all expenses will be done through it.
+
+
 # Reference
 [[AxoCom]]
