@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "88c5a3951b4e5b80",
+    "id": "1df8f41172ff894d",
     "type": "split",
     "children": [
       {
-        "id": "d24221f9c24fd7e8",
+        "id": "407303de6f7297bc",
         "type": "tabs",
         "children": [
           {
-            "id": "50a49491ef45dcc5",
+            "id": "8c5a400a48ca3c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node/How to contribute to knowledge graph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to contribute to knowledge graph"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd495afddfee1e01",
+    "id": "6c1f4b0da09b1283",
     "type": "split",
     "children": [
       {
-        "id": "cd4cdd1bc52cc5bb",
+        "id": "aebcbf5f96b32d34",
         "type": "tabs",
         "children": [
           {
-            "id": "e76bb203a49fc64e",
+            "id": "9c49e3adc150b754",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "1c179a16c40d9560",
+            "id": "5ec204f74b23830e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "59852e3c5ece6849",
+            "id": "5c439e35e5493e7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "8d3c2bdae992e22f",
+    "id": "7fc183587984b353",
     "type": "split",
     "children": [
       {
-        "id": "a549e143450820a1",
+        "id": "8e14e2155144cfb2",
         "type": "tabs",
         "children": [
           {
-            "id": "f2a1397bf9819dd7",
+            "id": "de420b37cd5101c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "61ebf926aeb1bde2",
+            "id": "610ae9598cda6815",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "3a7a2783fed182a5",
+            "id": "04b16efcffe8ca71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +133,32 @@
             }
           },
           {
-            "id": "4710b2d2d69fa8a9",
+            "id": "233937233beaa291",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a65d6337bec14b78",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -166,44 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "50a49491ef45dcc5",
+  "active": "9c49e3adc150b754",
   "lastOpenFiles": [
-    "node/women safety/5. Financial Inclusion Barriers & Data.md",
-    "node/women safety/4.Economic Participation & Informal Work.md",
-    "node/women safety/Status of Self Help Groups in Uttarakhand.md",
-    "node/women safety/Macro and Fiscal Landscape of the State of Uttarakhand.md",
-    "node/women safety/How free bus rides are empowering women and easing financial burden.md",
-    "node/women safety/3.Political Participation & Representation Gap.md",
-    "node/women safety/Analyzing Women's Political Participation in Uttarakhand.md",
-    "node/women safety/2.Women's Safety Crisis & Crime Data.md",
-    "node/women safety/Uttarakhand sees spike in crime against women.md",
-    "node/women safety/1.Women of Uttarakhand.md",
-    "node/women safety/Dehradun ranks among the top 10 least safe cities for women.md",
-    "node/women safety/Uttarakhand Population 2026.md",
-    "node/women safety/7.Data Bank Design - Framework & Indicators.md",
-    "node/women safety/8.Safety Intervention Strategies & Heatmapping.md",
-    "node/women safety/6.Health, Sanitation & Mobility Constraints.md",
-    "README.md",
-    "templates/untiled.md",
-    "templates/New Note.md",
-    "templates",
-    "rough",
-    "references/Creative & Generative Production Internship Sheet.md",
-    "references/Client Service & Account Management Sheet.md",
-    "node/women safety/9. Financial Targeting & SHG Analysis.md",
-    "node/women safety/13.Comparative Precedents & Scalability.md",
-    "node/women safety/12.Sustainability & Risk Mitigation.md",
-    "node/women safety/11.Implementation Timeline & Budget.md",
-    "node/women safety/10.Political Messaging & Voter Segmentation.md",
-    "node/women safety",
-    "node/hiring/Creative & Generative Production Intern Hiring Process.md",
-    "node/Ankita Bhandari Case",
-    "Untitled.canvas",
-    "Untitled.base",
     "Untitled",
-    "node/women safety/Untitled",
-    "node/ankita bhandari",
-    "node/hiring/Untitled",
-    "node/hiring"
+    "Welcome.md"
   ]
 }
