@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb1e5378484c5cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node/women safety/4.Economic Participation & Informal Work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.Economic Participation & Informal Work"
-            }
-          },
-          {
             "id": "50a49491ef45dcc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "node/How to contribute to knowledge graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "How to contribute to knowledge graph"
             }
           }
         ]
@@ -180,44 +166,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb1e5378484c5cd9",
+  "active": "50a49491ef45dcc5",
   "lastOpenFiles": [
+    "node/women safety/5. Financial Inclusion Barriers & Data.md",
+    "node/women safety/4.Economic Participation & Informal Work.md",
+    "node/women safety/Status of Self Help Groups in Uttarakhand.md",
+    "node/women safety/Macro and Fiscal Landscape of the State of Uttarakhand.md",
+    "node/women safety/How free bus rides are empowering women and easing financial burden.md",
     "node/women safety/3.Political Participation & Representation Gap.md",
+    "node/women safety/Analyzing Women's Political Participation in Uttarakhand.md",
     "node/women safety/2.Women's Safety Crisis & Crime Data.md",
+    "node/women safety/Uttarakhand sees spike in crime against women.md",
     "node/women safety/1.Women of Uttarakhand.md",
+    "node/women safety/Dehradun ranks among the top 10 least safe cities for women.md",
+    "node/women safety/Uttarakhand Population 2026.md",
+    "node/women safety/7.Data Bank Design - Framework & Indicators.md",
+    "node/women safety/8.Safety Intervention Strategies & Heatmapping.md",
+    "node/women safety/6.Health, Sanitation & Mobility Constraints.md",
+    "README.md",
+    "templates/untiled.md",
+    "templates/New Note.md",
+    "templates",
+    "rough",
+    "references/Creative & Generative Production Internship Sheet.md",
+    "references/Client Service & Account Management Sheet.md",
+    "node/women safety/9. Financial Targeting & SHG Analysis.md",
     "node/women safety/13.Comparative Precedents & Scalability.md",
     "node/women safety/12.Sustainability & Risk Mitigation.md",
     "node/women safety/11.Implementation Timeline & Budget.md",
     "node/women safety/10.Political Messaging & Voter Segmentation.md",
-    "node/women safety/9. Financial Targeting & SHG Analysis.md",
-    "node/women safety/8.Safety Intervention Strategies & Heatmapping.md",
-    "node/women safety/7.Data Bank Design - Framework & Indicators.md",
-    "node/women safety/6.Health, Sanitation & Mobility Constraints.md",
-    "node/women safety/5. Financial Inclusion Barriers & Data.md",
-    "node/women safety/4.Economic Participation & Informal Work.md",
-    "templates/New Note.md",
-    "node/women safety/Untitled.md",
-    "node/women safety/Women's Safety Crisis.md",
-    "node/women safety/[[4.Economic Participation & Informal Work.md",
-    "node/women safety/Uttarakhand Population 2026.md",
-    "Untitled.canvas",
-    "templates/untiled.md",
-    "node/women safety/Untitled/Untitled.md",
-    "2026-01-06.md",
-    "Untitled.base",
-    "node/AxoCom.md",
-    "node/women safety/Welcome.md",
-    "node/women safety/Untitled",
     "node/women safety",
-    "node/How to contribute to knowledge graph.md",
-    "node/Axocom Company structure.md",
-    "node/Ankita Bhandari Case/1. ANKITA BHANDARI MURDER CASE.md",
+    "node/hiring/Creative & Generative Production Intern Hiring Process.md",
     "node/Ankita Bhandari Case",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled",
+    "node/women safety/Untitled",
     "node/ankita bhandari",
-    "templates",
     "node/hiring/Untitled",
-    "node/hiring",
-    "node/hirign",
-    "rough"
+    "node/hiring"
   ]
 }
