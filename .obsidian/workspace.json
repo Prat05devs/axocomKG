@@ -11,13 +11,16 @@
             "id": "50a49491ef45dcc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
           }
@@ -168,6 +171,8 @@
   },
   "active": "50a49491ef45dcc5",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
     "Knowledge Graph/Info-Sources/Twiter/Meenakshi Kandwal",
     "Knowledge Graph/Info-Sources/Twiter/Uttarakhand Police",
     "Knowledge Graph/Info-Sources/Twiter/CM Office Uttarakhand",
@@ -178,9 +183,7 @@
     "Knowledge Graph/Human wildlife conflict",
     "Knowledge Graph/Uttrakhnad medical",
     "Knowledge Graph/Info-Sources/Facebook/Haridwar-Roorkee Development Authority",
-    "Knowledge Graph/Info-Sources/Facebook/Uttarakhand DIPR",
     "node/hiring/Strategy and Research Intern Hiring Process.md",
-    "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
     "node/hiring/Internship program.md",
     "node/hiring/Internship Job description.md",
     "node/hiring/Creative & Generative Production Intern Hiring Process.md",
