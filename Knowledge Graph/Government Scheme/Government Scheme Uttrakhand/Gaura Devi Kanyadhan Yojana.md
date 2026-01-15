@@ -1,6 +1,6 @@
 ## Metadata
 
-title: Government scheme Uttrakhand
+title: Government scheme Uttarakhand
 owner: Research Team
 version: 1.0.0
 type: Article

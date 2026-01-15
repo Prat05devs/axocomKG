@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d24221f9c24fd7e8",
+        "id": "c155c32cb91ea71f",
         "type": "tabs",
         "children": [
           {
-            "id": "50a49491ef45dcc5",
+            "id": "0fa5a63785474f00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "DesigningAndEditingTeam/Sambhav.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Sambhav"
             }
           }
         ]
@@ -169,10 +166,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "50a49491ef45dcc5",
+  "active": "0fa5a63785474f00",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (SC-ST-OBC) Students Scholarship Scheme.md",
+    "DesigningAndEditingTeam/Sambhav.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Gaura Devi Kanyadhan Yojana.md",
+    "DesigningAndEditingTeam",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (Minority) Students Scholarship Scheme.md",
+    "Knowledge Graph/Info-Sources/youtube/Uttarakhand News Vaani/Untitled.md",
+    "Knowledge Graph/Info-Sources/youtube/CCN NEWS UTTARAKHAND/Untitled.md",
     "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "Knowledge Graph/Info-Sources/Twiter/Meenakshi Kandwal",
     "Knowledge Graph/Info-Sources/Twiter/Uttarakhand Police",
     "Knowledge Graph/Info-Sources/Twiter/CM Office Uttarakhand",
@@ -181,8 +186,6 @@
     "Knowledge Graph/Info-Sources/Facebook/VANI News Network",
     "Knowledge Graph/Info-Sources/Facebook/Pankaj panwar",
     "Knowledge Graph/Human wildlife conflict",
-    "Knowledge Graph/Uttrakhnad medical",
-    "Knowledge Graph/Info-Sources/Facebook/Haridwar-Roorkee Development Authority",
     "node/hiring/Strategy and Research Intern Hiring Process.md",
     "node/hiring/Internship program.md",
     "node/hiring/Internship Job description.md",
@@ -196,17 +199,11 @@
     "node/How to contribute to knowledge graph.md",
     "node/How is finances of the company getting managed.md",
     "node/Axocom Company structure.md",
-    "Knowledge Graph/Info-Sources/youtube/Uttarakhand News Vaani/Untitled.md",
-    "Knowledge Graph/Info-Sources/youtube/CCN NEWS UTTARAKHAND/Untitled.md",
     "Knowledge Graph/Info-Sources/youtube/Zee Uttar Pradesh UttaraKhand/Untitled.md",
     "Knowledge Graph/Info-Sources/youtube/Baramasa/Untitled.md",
     "Knowledge Graph/Info-Sources/youtube/Uttrakhand news/Untitled.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (SC-ST-OBC) Students Scholarship Scheme.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (Minority) Students Scholarship Scheme.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Gaura Devi Kanyadhan Yojana.md",
     "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Trader Accident Insurance Scheme.md",
     "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Shadi Anudan Yojana.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Pension Scheme.md",
-    "Untitled.canvas"
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Pension Scheme.md"
   ]
 }
