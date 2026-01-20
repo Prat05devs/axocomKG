@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "userIgnoreFilters": [
     "rough/"
-  ]
+  ],
+  "promptDelete": false
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d24221f9c24fd7e8",
+        "id": "2072385d67bd075b",
         "type": "tabs",
         "children": [
           {
-            "id": "50a49491ef45dcc5",
+            "id": "762d0359cd9ae44b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Graph/Info-Sources/E-newspaper/amar ujala/xyz.md",
+                "file": "DesigningAndEditingTeam/ARYAN SEMWAL/Poster designs inspirations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xyz"
+              "title": "Poster designs inspirations"
             }
           }
         ]
@@ -166,20 +166,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "50a49491ef45dcc5",
+  "active": "e76bb203a49fc64e",
   "lastOpenFiles": [
-    "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
+    "DesigningAndEditingTeam/Abhinav kumar/INSPIRATIONS.md",
     "Knowledge Graph/Info-Sources/E-newspaper/amar ujala/xyz.md",
-    "Knowledge Graph/Info-Sources/Twiter/Meenakshi Kandwal",
-    "Knowledge Graph/Info-Sources/Twiter/Uttarakhand Police",
-    "Knowledge Graph/Info-Sources/Twiter/CM Office Uttarakhand",
-    "Knowledge Graph/Info-Sources/Facebook/Pankaj singh chhetri",
-    "Knowledge Graph/Info-Sources/Facebook/Amar Ujala Dehradun",
-    "Knowledge Graph/Info-Sources/Facebook/VANI News Network",
-    "Knowledge Graph/Info-Sources/Facebook/Pankaj panwar",
-    "Knowledge Graph/Human wildlife conflict",
-    "Knowledge Graph/Uttrakhnad medical",
-    "Knowledge Graph/Info-Sources/Facebook/Haridwar-Roorkee Development Authority",
+    "Knowledge Graph/Info-Sources/E-newspaper/amar ujala",
+    "Knowledge Graph/Info-Sources/E-newspaper",
+    "DesigningAndEditingTeam/Abhinav kumar/posters process.md",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/Poster designs inspirations.md",
+    "WhatsApp Image 2026-01-20 at 11.03.36 AM.jpeg",
+    "Pasted image 20260120104550.jpg",
+    "Pasted image 20260120105130.jpg",
+    "Pasted image 20260120104357.jpg",
+    "Pasted image 20260120104455.jpg",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/INSPIRASTIONS.md",
+    "DesigningAndEditingTeam/Abhinav kumar",
+    "templates/New Note.md",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/Untitled.base",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/Untitled 1.base",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/Untitled 3.base",
+    "DesigningAndEditingTeam/ARYAN SEMWAL/Untitled 2.base",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Shadi Anudan Yojana.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Trader Accident Insurance Scheme.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Pension Scheme.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Nanda Gaura Yojana.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (SC-ST-OBC) Students Scholarship Scheme.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (Minority) Students Scholarship Scheme.md",
+    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Gaura Devi Kanyadhan Yojana.md",
+    "Untitled.canvas",
+    "DesigningAndEditingTeam/ARYAN SEMWAL",
+    "DesigningAndEditingTeam/Sambhav.md",
+    "DesigningAndEditingTeam/ARYAN SEMWAL",
+    "DesigningAndEditingTeam",
+    "Knowledge Graph/Info-Sources/Instagram/MP from UK/Untitled.md",
     "node/hiring/Strategy and Research Intern Hiring Process.md",
     "node/hiring/Internship program.md",
     "node/hiring/Internship Job description.md",
@@ -190,20 +209,6 @@
     "node/hiring/Axocom onsite round mail For Client Relationship & Business Development Intern.md",
     "node/AxoCom.md",
     "node/Knowledge Graph.md",
-    "node/How to contribute to knowledge graph.md",
-    "node/How is finances of the company getting managed.md",
-    "node/Axocom Company structure.md",
-    "Knowledge Graph/Info-Sources/youtube/Uttarakhand News Vaani/Untitled.md",
-    "Knowledge Graph/Info-Sources/youtube/CCN NEWS UTTARAKHAND/Untitled.md",
-    "Knowledge Graph/Info-Sources/youtube/Zee Uttar Pradesh UttaraKhand/Untitled.md",
-    "Knowledge Graph/Info-Sources/youtube/Baramasa/Untitled.md",
-    "Knowledge Graph/Info-Sources/youtube/Uttrakhand news/Untitled.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (SC-ST-OBC) Students Scholarship Scheme.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand (Minority) Students Scholarship Scheme.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Gaura Devi Kanyadhan Yojana.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Trader Accident Insurance Scheme.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Shadi Anudan Yojana.md",
-    "Knowledge Graph/Government Scheme/Government Scheme Uttrakhand/Uttarakhand Pension Scheme.md",
-    "Untitled.canvas"
+    "node/How to contribute to knowledge graph.md"
   ]
 }
