@@ -125,8 +125,11 @@ Information Brochure
     मसूरी बाईपास रोड, नथनपुर,  
     देहरादून, उत्तराखण्ड।
 
-## Reference Nodes
+
 
 
 - [उत्तराखण्ड जी.एस.टी विभाग पोर्टल।](https://gst.uk.gov.in/)
 - [उत्तराखण्ड व्यापारी दुर्घटना बीमा योजना दिशानिर्देश।](https://www.govtschemes.in/sites/default/files/2023-03/Uttarakhand%20Trader%20Accident%20Insurance%20Scheme%20Guidelines.pdf?v=1)
+
+## Reference
+https://www.govtschemes.in/allschemes/Uttarakhand
